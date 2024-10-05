@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sesi_4_Kath</string>
+    <string-array name="roles">
+        <item>Choose your role</item>
+        <item>Student</item>
+        <item>Lecturer</item>
+    </string-array>
+</resources>
